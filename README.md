@@ -28,7 +28,7 @@
 </br>
 
 ### Learning...
-<div style="display: inline_block">+-
+<div style="display: inline_block">
     <img align="center" alt"Svelte" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00"/>
        <img align="center" alt"React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img align="center" alt"Ionic" src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white"/>
