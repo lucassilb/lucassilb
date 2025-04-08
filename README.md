@@ -3,8 +3,8 @@
 ### Stats
 
 <div>
-    <img height:"180em src="https://github-readme-stats.vercel.app/api?username=lucxx777&show_icons=true&theme=prussian" />
-    <img height:"180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucxx777&layout=compact&theme=prussian" />
+    <img height:"180em src="https://github-readme-stats.vercel.app/api?username=lucassilb&show_icons=true&theme=prussian" />
+    <img height:"180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucassilb&layout=compact&theme=prussian" />
 </div>
 
 ### Used Technologies
