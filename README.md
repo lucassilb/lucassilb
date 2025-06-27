@@ -24,7 +24,7 @@
     <img align="center" alt"Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
     <img align="center" alt"Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
 </div></br>
-📕💻Student of programming, continuously learning and eager to acquire new skills, open to feedback and improvement suggestions. Committed to finding the most effective solutions to problems.
+💻Student of programming, continuously learning and eager to acquire new skills, open to feedback and improvement suggestions. Committed to finding the most effective solutions to problems.
 </br>
 
 ### Learning...
@@ -32,7 +32,7 @@
     <img align="center" alt"Svelte" src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00"/>
        <img align="center" alt"React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
   <img align="center" alt"Ionic" src="https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white"/>
-   
+
 </div></br>
 
 
